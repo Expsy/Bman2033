@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 6542ac0199b61d9458fa91d670c8cd57
+timeCreated: 1500203641
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Something Strange
+  fontNames:
+  - Something Strange
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
