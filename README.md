@@ -1,5 +1,5 @@
 # Bman2033
-## **Disclaimer** ##
+## **Disclaimer** 
 This project has been made prior to my education in Bahcesehir University. 
 
 ## **Information** 
@@ -8,7 +8,7 @@ It is a multiplayer, survival game which can be played in either pvp or pve mode
 I've used the Photon Unity Networking library to establish the multiplayer part of the game.
 
 ###### Gameplay video:
-[]https://youtu.be/D9RYGZ3ykMM
+https://youtu.be/D9RYGZ3ykMM
 
 
 ###### Pathfinding
